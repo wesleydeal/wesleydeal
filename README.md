@@ -2,7 +2,7 @@
 
 I'm Wesley Deal. I work at Fellowship Christian School as an IT Systems Engineer. We're a mostly Windows environment on the back end, so in between support requests I'm frequently working on PowerShell scripts to automate our procedures. I'd like to publish some here, but most are specific to our organization.
 
-I'm also interested in learning Linux systems administration and at least CCNA-level networking skills.
+I'm also interested in learning Linux systems administration and at least CCNA-level networking skills, and I'm trying to switch from Notepad++ to VIM (old habits die hard).
 
 <!--
 **wesleydeal/wesleydeal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
